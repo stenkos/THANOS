@@ -1,3 +1,4 @@
+![THANOS](icon.ico)
 # THANOS
 This script deletes half of the files in a directory. It is meant to be used in the command line.
 ## Installation & Usage
